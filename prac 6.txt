@@ -1,0 +1,12 @@
+1. Install MongoDB (community server) MSI package
+
+2. Install MongoDB Shell (Command line)
+ 
+3. After installing this we will check the version of MongoDB
+ Mongod --version
+4. Open a MongoDB shell using CMD
+ Mongosh
+5. Creating Database in MongoDB
+ use bca
+6. Creating a Collection in MongoDB
+ Db.createCollection(“mongodb”)
